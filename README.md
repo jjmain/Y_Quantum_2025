@@ -24,3 +24,5 @@ You are welcome to use BlueQubit’s quantum and simulation devices to tackle th
 They were introduced by Scott Aaronson as a way to achieve verifiable quantum advantage. Carefully crafted peaked circuits look like random circuits  - like the one used by Google in their benchmark that would take supercomputers septillion=10²⁵ years to replicate. However, unlike random circuits - peaked circuits are much easier to verify: all you need to do is to run them on a quantum computer and verify you get the correct hidden bitstring!
 
 This quantum hackathon aims to test the skills of quantum researchers and enthusiasts in how well they can use quantum computers and simulators to crack such peaked circuits. 
+
+Authors: MerQury(@jjmain, @roman-bagdasarian, @Habiba, @Archana, @siri)
